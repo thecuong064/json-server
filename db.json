@@ -3,85 +3,84 @@
     {
       "id": 1,
       "userPhoto": "https://via.placeholder.com/600/92c952",
-      "username": "user.name1",
+      "username": "user.name1"
     },
     {
       "id": 2,
       "userPhoto": "https://via.placeholder.com/600/771796",
-      "username": "user.name2",
+      "username": "user.name2"
     },
     {
       "id": 3,
       "userPhoto": "https://via.placeholder.com/600/24f355",
-      "username": "user.name3",
+      "username": "user.name3"
     },
     {
       "id": 4,
       "userPhoto": "https://via.placeholder.com/600/d32776",
-      "username": "user.name4",
+      "username": "user.name4"
     },
     {
-      "id": 5
+      "id": 5,
       "userPhoto": "https://via.placeholder.com/600/f66b97",
-      "username": "user.name5",
+      "username": "user.name5"
     },
     {
       "id": 6,
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
-      "username": "user.name6",
+      "username": "user.name6"
     },
     {
       "id": 7,
       "userPhoto": "https://via.placeholder.com/600/b0f7cc",
-      "username": "user.name7",
-    },
-    
+      "username": "user.name7"
+    }
   ],
   "posts": [
     {
       "id": 1,
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
-      "photo": "https://via.placeholder.com/600/92c952",
+      "photo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 2,
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
-      "photo": "https://via.placeholder.com/600/771796",
+      "photo": "https://via.placeholder.com/600/771796"
     },
     {
       "id": 3,
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
-      "photo": "https://via.placeholder.com/600/24f355",
+      "photo": "https://via.placeholder.com/600/24f355"
     },
     {
       "id": 4,
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
-      "photo": "https://via.placeholder.com/600/d32776",
+      "photo": "https://via.placeholder.com/600/d32776"
     },
     {
-      "id": 5
+      "id": 5,
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
-      "photo": "https://via.placeholder.com/600/f66b97",
+      "photo": "https://via.placeholder.com/600/f66b97"
     },
     {
       "id": 6,
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
-      "photo": "https://via.placeholder.com/600/56a8c2",
+      "photo": "https://via.placeholder.com/600/56a8c2"
     },
     {
       "id": 7,
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
-      "photo": "https://via.placeholder.com/600/b0f7cc",
+      "photo": "https://via.placeholder.com/600/b0f7cc"
     },
     {
       "id": 8,
       "userPhoto": "https://via.placeholder.com/600/54176f",
-      "photo": "https://via.placeholder.com/600/54176f",
+      "photo": "https://via.placeholder.com/600/54176f"
     },
     {
       "id": 9,
       "userPhoto": "https://via.placeholder.com/600/51aa97",
-      "photo": "https://via.placeholder.com/600/51aa97",
+      "photo": "https://via.placeholder.com/600/51aa97"
     },
     {
       "id": 10,
@@ -137,6 +136,6 @@
       "id": 20,
       "userPhoto": "https://via.placeholder.com/600/8985dc",
       "photo": "https://via.placeholder.com/600/8985dc"
-    },
+    }
   ]
 }
