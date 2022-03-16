@@ -39,101 +39,121 @@
   "posts": [
     {
       "id": 1,
+      "username": "user.name1",
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
       "photo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 2,
+      "username": "user.name2",
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
       "photo": "https://via.placeholder.com/600/771796"
     },
     {
       "id": 3,
+      "username": "user.name3",
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
       "photo": "https://via.placeholder.com/600/24f355"
     },
     {
       "id": 4,
+      "username": "user.name4",
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
       "photo": "https://via.placeholder.com/600/d32776"
     },
     {
       "id": 5,
+      "username": "user.name5",
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
       "photo": "https://via.placeholder.com/600/f66b97"
     },
     {
       "id": 6,
+      "username": "user.name6",
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
       "photo": "https://via.placeholder.com/600/56a8c2"
     },
     {
       "id": 7,
+      "username": "user.name7",
       "userPhoto": "https://via.placeholder.com/600/56a8c2",
       "photo": "https://via.placeholder.com/600/b0f7cc"
     },
     {
       "id": 8,
+      "username": "user.name8",
       "userPhoto": "https://via.placeholder.com/600/54176f",
       "photo": "https://via.placeholder.com/600/54176f"
     },
     {
       "id": 9,
+      "username": "user.name9",
       "userPhoto": "https://via.placeholder.com/600/51aa97",
       "photo": "https://via.placeholder.com/600/51aa97"
     },
     {
       "id": 10,
+      "username": "user.name10",
       "userPhoto": "https://via.placeholder.com/600/810b14",
       "photo": "https://via.placeholder.com/600/810b14"
     },
     {
       "id": 11,
+      "username": "user.name11",
       "userPhoto": "https://via.placeholder.com/600/1ee8a4",
       "photo": "https://via.placeholder.com/600/1ee8a4"
     },
     {
       "id": 12,
+      "username": "user.name12",
       "userPhoto": "https://via.placeholder.com/600/66b7d2",
       "photo": "https://via.placeholder.com/600/66b7d2"
     },
     {
       "id": 13,
+      "username": "user.name13",
       "userPhoto": "https://via.placeholder.com/600/197d29",
       "photo": "https://via.placeholder.com/600/197d29"
     },
     {
       "id": 14,
+      "username": "user.name14",
       "userPhoto": "https://via.placeholder.com/600/61a65",
       "photo": "https://via.placeholder.com/600/61a65"
     },
     {
       "id": 15,
+      "username": "user.name15",
       "userPhoto": "https://via.placeholder.com/600/f9cee5",
       "photo": "https://via.placeholder.com/600/f9cee5"
     },
     {
       "id": 16,
+      "username": "user.name16",
       "userPhoto": "https://via.placeholder.com/600/fdf73e",
       "photo": "https://via.placeholder.com/600/fdf73e"
     },
     {
       "id": 17,
+      "username": "user.name17",
       "userPhoto": "https://via.placeholder.com/600/9c184f",
       "photo": "https://via.placeholder.com/600/9c184f"
     },
     {
       "id": 18,
+      "username": "user.name18",
       "userPhoto": "https://via.placeholder.com/600/1fe46f",
       "photo": "https://via.placeholder.com/600/1fe46f"
     },
     {
       "id": 19,
+      "username": "user.name19",
       "userPhoto": "https://via.placeholder.com/600/56acb2",
       "photo": "https://via.placeholder.com/600/56acb2"
     },
     {
       "id": 20,
+      "username": "user.name20",
       "userPhoto": "https://via.placeholder.com/600/8985dc",
       "photo": "https://via.placeholder.com/600/8985dc"
     }
